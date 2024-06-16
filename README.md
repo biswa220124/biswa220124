@@ -40,7 +40,3 @@
 <p align="left">I am Currently working on Distance measurment using FPGAs</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/biswa220124/biswa220124/output/snake.svg" alt="Snake animation" />
-
-###
