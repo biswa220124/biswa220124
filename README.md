@@ -33,10 +33,14 @@
 
 ###
 
-<p align="left">ECE Engineering Student</p>
+<h3 align="left">ECE Engineering Student</h3>
 
 ###
 
-<h6 align="left">I am Currently working on Distance measurment using FPGAs</h6>
+<p align="left">I am Currently working on Distance measurment using FPGAs</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/biswa220124/biswa220124/output/snake.svg" alt="Snake animation" />
 
 ###
