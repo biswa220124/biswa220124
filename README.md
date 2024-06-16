@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋I am Biswabhushan Swaun</h2>
+<h2 align="left">Hi 👋I am Biswabhushan Swain</h2>
 
 ###
 
